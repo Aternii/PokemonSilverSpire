@@ -2,10 +2,10 @@
  <b>Pokémon Silver Spire Release<b/>
 <br />
 <br />
+ <b>Current Version: Alpha 0.0.1</b>
+<br />
 
 <details>
-  <b>urrent Version: Alpha 0.0.1</b>
-  <br />
 <summary><b>Updates:</b></summary>
   <br />
 - Updated Maps <br />
