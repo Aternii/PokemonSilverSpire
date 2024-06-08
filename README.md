@@ -4,9 +4,9 @@
 <br />
  <b>Current Version: Alpha 0.0.1</b>
 <br />
-
+<br />
+  
 <details>
- <br />
 <summary><b>Updates:</b></summary>
   <br />
 - Updated Maps <br />
