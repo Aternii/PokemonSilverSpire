@@ -6,6 +6,7 @@
 <br />
 
 <details>
+ <br />
 <summary><b>Updates:</b></summary>
   <br />
 - Updated Maps <br />
