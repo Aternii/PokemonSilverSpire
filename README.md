@@ -1,5 +1,5 @@
 <div align="center">
- <b>Pokémon Silver Spire Release<b/>
+ <b>Pokémon Silver Spire Release Notes<b/>
 <br />
 <br />
  <b>Current Version: Alpha 0.0.1</b>
